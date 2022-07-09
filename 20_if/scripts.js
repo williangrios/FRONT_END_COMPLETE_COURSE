@@ -8,7 +8,7 @@ if (age >= 25){
     console.log('age is more than 25');
 }
 
-let firstName = 'will';
+let firstName = 'will'; 
 
 if (age >= 25 && firstName === 'will'){
     console.log('OK');
