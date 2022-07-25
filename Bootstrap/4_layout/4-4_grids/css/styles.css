@@ -1,0 +1,32 @@
+
+
+.container{
+    border: 5px dotted blue;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.row{
+    border: 5px solid red;
+    height: 100px;
+    padding: 10px;
+    margin: 0;
+}
+
+.col,
+.col-2,
+.col-3,
+.col-4,
+.col-6,
+.col-9,
+.col-12{
+    border: 5px dashed green;
+    padding: 10px;
+    height: 100%;
+    margin: 0;
+}
+
+
+#largura-limitada{
+    width: 600px;
+}

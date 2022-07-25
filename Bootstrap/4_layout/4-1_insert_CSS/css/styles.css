@@ -1,0 +1,16 @@
+/* if do not have class, it works in level tag */
+h1{
+   color: blueviolet;
+}
+
+
+/* if have class, should be use the class */
+/* not works */
+button{
+    background-color: red;
+}
+
+/* it works */
+.btn-primary{
+    background-color: rgb(225, 100, 237);
+}
