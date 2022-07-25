@@ -11,5 +11,5 @@ let newCarVW = new Car('VW');
 
 Car.prototype.brand = "FIAT";
 
-console.log (newCarVW.brand);
-console.log (Car.prototype.brand);
+console.log (newCarVW.brand); //VW
+console.log (Car.prototype.brand); //FIAT

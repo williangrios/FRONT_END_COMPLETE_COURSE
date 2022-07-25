@@ -27,8 +27,8 @@ class Motorcicle extends Vehicle {
 
 let motorcicleRed = new Motorcicle('BMW', 'red', 2, false);
 
-console.log(motorcicleRed instanceof Vehicle);
+console.log(motorcicleRed instanceof Vehicle);  //true
 
-console.log(new Motorcicle instanceof Vehicle);
+console.log(new Motorcicle instanceof Vehicle); //true
 
-console.log(motorcicleRed instanceof Object);
+console.log(motorcicleRed instanceof Object); //true

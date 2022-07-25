@@ -13,7 +13,6 @@ function sum(a, b){
         
 }
 
-
 sum (3, 2);
 
 
