@@ -15,3 +15,13 @@ console.log(proprietario);
 console.log(car.wheels);
 console.log(car.color);
 console.log(car.owner);
+
+
+
+//same name 
+const {wheels, color, owner} = car;
+
+
+console.log(wheels);
+console.log(color);
+console.log(owner);
